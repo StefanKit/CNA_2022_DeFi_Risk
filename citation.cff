@@ -3,8 +3,8 @@ cff-version: 1.2.0
 title: "Dataset for Systemic Risk in DeFi"
 message: "If you use this dataset, please cite it as below."
 authors:
-  - given-names: Kitzler
-    name-particle: Stefan
+  - given-names: Stefan
+    family-names: Kitzler
     orcid: 'https://orcid.org/0000-0001-8454-167X'
 version: 1.0.0
 doi: 10.5281/zenodo.1234
