@@ -1,5 +1,6 @@
 type: dataset
 cff-version: 1.2.0
+title: "Dataset for Systemic Risk in DeFi"
 message: "If you use this dataset, please cite it as below."
 version: 1.0.0
 doi: 10.5281/zenodo.1234
