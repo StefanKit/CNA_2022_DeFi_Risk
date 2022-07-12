@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kitzler"
+  given-names: "Stefan"
+  orcid: "https://orcid.org/0000-0001-8454-167X"
+- family-names: "Diem"
+  given-names: "Christian"
+  orcid: "https://orcid.org/0000-0002-7408-7263"
+- family-names: "Saggese"
+  given-names: "Pietro"
+  orcid: "https://orcid.org/0000-0002-7387-0846"
+- family-names: "Haslhofer"
+  given-names: "Bernhard"
+  orcid: "https://orcid.org/0000-0002-0415-4491"
+- family-names: "Thurner"
+  given-names: "Stefan"
+  orcid: "https://orcid.org/0000-0003-2495-6819"
+title: "Systemic Risk in Decentralized Finance (DeFi)"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-07-12
+url: "https://github.com/StefanKit/CNA_2022_DeFi_Risk"
+preferred-citation:
+  type: data
