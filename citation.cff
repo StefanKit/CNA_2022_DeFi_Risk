@@ -21,5 +21,4 @@ version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2022-07-12
 url: "https://github.com/StefanKit/CNA_2022_DeFi_Risk"
-preferred-citation:
-  type: data
+type: data
